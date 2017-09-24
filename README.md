@@ -1,7 +1,8 @@
 # react-navigation-current-route
 
-Get the current route name for an application which is using [react-navigation](https://github.com/react-community/react-navigation) <br>
+<i>Inspired by react-navigation  [guide](https://github.com/react-community/react-navigation/blob/bbab489a6acfd9ef5185f2c0bcc9d1420a647d78/docs/guides/Screen-Tracking.md). Published for the ease of usage.</i>
 
+Get the current route name for an application which is using [react-navigation](https://github.com/react-community/react-navigation) <br>
 
 <strong>Installation</strong>:
 ```javascript
