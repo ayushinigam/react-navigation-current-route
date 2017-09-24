@@ -12,7 +12,7 @@ npm install react-navigation-current-route --save
 <br> Pass the <strong>
 * Get the navigation state</strong>, as in redux store -> `navigationState`
 * Pass `navigationState` to the method exported from <strong>react-navigation-current-route</strong>
-* The method would return the current route name :sunglasses:
+* The method returns the current route name :sunglasses:
 
 ```javascript
 /* Get current route in a container */
