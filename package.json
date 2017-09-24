@@ -1,0 +1,32 @@
+{
+  "name": "react-navigation-current-route",
+  "version": "1.0.0",
+  "description": "Get current route from react-navigation routes",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --verbose --watch",
+    "coverage": "jest --verbose --coverage && open ./coverage/lcov-report/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushinigam/react-navigation-current-route.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "redux",
+    "navigation",
+    "current",
+    "route"
+  ],
+  "author": "Ayushi Nigam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayushinigam/react-navigation-current-route/issues"
+  },
+  "homepage": "https://github.com/ayushinigam/react-navigation-current-route#readme",
+  "devDependencies": {
+    "jest": "^21.1.0"
+  }
+}
